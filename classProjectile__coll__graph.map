@@ -1,0 +1,13 @@
+<map id="Projectile" name="Projectile">
+<area shape="rect" id="node1" title="This class is the data and Qt UI logic for the projectiles." alt="" coords="363,336,446,363"/>
+<area shape="rect" id="node2" href="$classGameObject.html" title="This class is the logic and the UI element for the entity which have a behaviour on the game and who ..." alt="" coords="295,81,397,108"/>
+<area shape="rect" id="node6" href="$classUnit.html" title="This class is the data for a unit (allies or enemies)" alt="" coords="243,157,292,184"/>
+<area shape="rect" id="node3" title=" " alt="" coords="262,5,430,32"/>
+<area shape="rect" id="node4" href="$classEnemy.html" title="This class is the data and Qt UI logic for the enemies." alt="" coords="415,247,482,273"/>
+<area shape="rect" id="node5" title=" " alt="" coords="413,157,487,184"/>
+<area shape="rect" id="node9" href="$classAlly.html" title="This class is the data and Qt UI logic for the allies (the entities of the player)" alt="" coords="148,247,195,273"/>
+<area shape="rect" id="node7" href="$classTile.html" title="This class is the data and Qt UI logic for the tile (cell of the map)" alt="" coords="107,336,153,363"/>
+<area shape="rect" id="node8" title=" " alt="" coords="5,247,124,273"/>
+<area shape="rect" id="node10" href="$classGraphicsHealthBar.html" title="The UI element of the health bar HUD of entities." alt="" coords="511,157,655,184"/>
+<area shape="rect" id="node11" title=" " alt="" coords="504,81,663,108"/>
+</map>

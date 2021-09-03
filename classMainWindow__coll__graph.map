@@ -1,0 +1,4 @@
+<map id="MainWindow" name="MainWindow">
+<area shape="rect" id="node1" title="This class is the main window, it contains each displayed elements (HUD/assets) of the game." alt="" coords="13,80,119,107"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,127,32"/>
+</map>

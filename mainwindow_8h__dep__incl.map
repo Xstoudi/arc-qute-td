@@ -1,0 +1,13 @@
+<map id="headers/mainwindow.h" name="headers/mainwindow.h">
+<area shape="rect" id="node1" title=": Header file, for the class &quot;mainwindow.cpp&quot;" alt="" coords="379,5,551,32"/>
+<area shape="rect" id="node2" href="$gamemanager_8h.html" title=": Header file, for the class &quot;gamemanager.cpp&quot;" alt="" coords="289,80,473,107"/>
+<area shape="rect" id="node5" href="$gameobject_8cpp.html" title=": Source file for the GameObject class" alt="" coords="5,155,155,181"/>
+<area shape="rect" id="node9" href="$main_8cpp.html" title=": Source file for the main entrypoint" alt="" coords="498,80,603,107"/>
+<area shape="rect" id="node10" href="$mainwindow_8cpp.html" title=": Source file for the MainWindow class" alt="" coords="627,80,781,107"/>
+<area shape="rect" id="node11" href="$rounddisplay_8cpp.html" title=": Source file for the RoundDisplay class" alt="" coords="805,80,960,107"/>
+<area shape="rect" id="node3" href="$ally_8cpp.html" title=": Source file for the Ally class" alt="" coords="179,155,274,181"/>
+<area shape="rect" id="node4" href="$gamemanager_8cpp.html" title=": Source file for the GameManager singleton" alt="" coords="298,155,465,181"/>
+<area shape="rect" id="node6" href="$map_8cpp.html" title=": Source file for the Map class" alt="" coords="489,155,591,181"/>
+<area shape="rect" id="node7" href="$projectile_8cpp.html" title=": Source file for the Projectile class" alt="" coords="615,155,748,181"/>
+<area shape="rect" id="node8" href="$tile_8cpp.html" title=": Source file for the Tile class" alt="" coords="772,155,865,181"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="GameManager" name="GameManager">
+<area shape="rect" id="node1" title="This class is the core of the game. It manage everythings of the game, logic (like loading data,..." alt="" coords="5,80,124,107"/>
+<area shape="rect" id="node2" title=" " alt="" coords="27,5,102,32"/>
+</map>

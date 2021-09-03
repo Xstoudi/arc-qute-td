@@ -1,0 +1,8 @@
+<map id="Ally" name="Ally">
+<area shape="rect" id="node1" title="This class is the data and Qt UI logic for the allies (the entities of the player)" alt="" coords="5,5,52,32"/>
+<area shape="rect" id="node5" href="$classTile.html" title="This class is the data and Qt UI logic for the tile (cell of the map)" alt="" coords="92,95,139,121"/>
+<area shape="rect" id="node2" href="$classUnit.html" title="This class is the data for a unit (allies or enemies)" alt="" coords="91,184,140,211"/>
+<area shape="rect" id="node3" href="$classGameObject.html" title="This class is the logic and the UI element for the entity which have a behaviour on the game and who ..." alt="" coords="255,95,357,121"/>
+<area shape="rect" id="node4" title=" " alt="" coords="247,5,415,32"/>
+<area shape="rect" id="node6" title=" " alt="" coords="104,5,223,32"/>
+</map>

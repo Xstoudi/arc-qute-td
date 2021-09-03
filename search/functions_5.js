@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['gameinit_232',['gameInit',['../classGameManager.html#a9d08ceaba2856e5cd6da7091015c7786',1,'GameManager']]],
+  ['gamemanager_233',['GameManager',['../classGameManager.html#ab7c62cfd77c09cf96304441c5bec4bd1',1,'GameManager']]],
+  ['gamerestart_234',['gameRestart',['../classGameManager.html#ace574902b36ab97acd296c907a766efc',1,'GameManager']]],
+  ['getattackrange_235',['getAttackRange',['../classAlly.html#af72e38c1e64258654ad3079973d0288f',1,'Ally']]],
+  ['getcoordinate_236',['getCoordinate',['../classTile.html#a2027362ac18cb7422a7dd22cc1e1cc44',1,'Tile']]],
+  ['getcurrenttile_237',['getCurrentTile',['../classUnit.html#a7bc46caabed807969a1b6da994b7b410',1,'Unit']]],
+  ['getcurrenttraceadvence_238',['getCurrentTraceAdvence',['../classEnemy.html#abe2b8c5147afff900b470621d80c7566',1,'Enemy']]],
+  ['getenemiesonthis_239',['getEnemiesOnThis',['../classTile.html#a627fc7d1b09b9b841a4ed492dfe6ae5b',1,'Tile']]],
+  ['getinstance_240',['getInstance',['../classGameManager.html#a671a381979831a3f79bf998f35e75e90',1,'GameManager']]],
+  ['getmainwindow_241',['getMainWindow',['../classGameManager.html#a0783a1c2bd02d96106a3b2e03e9f9a36',1,'GameManager']]],
+  ['getmap_242',['getMap',['../classGameManager.html#ab969e65144c59f40fc4c753af1504446',1,'GameManager']]],
+  ['getpickedally_243',['getPickedAlly',['../classGameManager.html#ac2a7db69e73cd152695e5da03795e823',1,'GameManager']]],
+  ['getround_244',['getRound',['../classGameManager.html#a565c9180f198c9a98f6bc8b540c0073f',1,'GameManager']]],
+  ['gettarget_245',['getTarget',['../classProjectile.html#ada13cfe95ac70851ddb99f95a2d7f848',1,'Projectile']]],
+  ['gettilegrid_246',['getTileGrid',['../classMap.html#a3ef45c0dcca3bbb4c710acd4a68fe82b',1,'Map']]],
+  ['gettrace_247',['getTrace',['../classMap.html#a8f5c0a4395a5bed0750c2d16960fc1c1',1,'Map']]],
+  ['gettracetiles_248',['getTraceTiles',['../classMap.html#a9cd5c74e3fb90abbec3c2a241427a63f',1,'Map']]],
+  ['gettype_249',['getType',['../classTile.html#a442a6124472862c6a9cd8450e9252e8d',1,'Tile']]],
+  ['gettypefromletter_250',['getTypeFromLetter',['../classMap.html#a23b70bde26aa0c3f4732da788149c206',1,'Map']]],
+  ['graphicshealthbar_251',['GraphicsHealthBar',['../classGraphicsHealthBar.html#a0bc70cd9c8d4dbd86abd27e7253f4c80',1,'GraphicsHealthBar']]]
+];

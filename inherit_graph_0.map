@@ -1,0 +1,10 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,173,57"/>
+<area shape="rect" id="node2" href="$classGameObject.html" title="This class is the logic and the UI element for the entity which have a behaviour on the game and who ..." alt="" coords="221,31,324,57"/>
+<area shape="rect" id="node3" href="$classProjectile.html" title="This class is the data and Qt UI logic for the projectiles." alt="" coords="372,5,455,32"/>
+<area shape="rect" id="node4" href="$classUnit.html" title="This class is the data for a unit (allies or enemies)" alt="" coords="389,56,438,83"/>
+<area shape="rect" id="node5" href="$classAlly.html" title="This class is the data and Qt UI logic for the allies (the entities of the player)" alt="" coords="539,43,585,69"/>
+<area shape="rect" id="node6" href="$classEnemy.html" title="This class is the data and Qt UI logic for the enemies." alt="" coords="529,93,595,120"/>
+<area shape="rect" id="node7" title=" " alt="" coords="376,119,451,145"/>
+<area shape="rect" id="node8" href="$classGameManager.html" title="This class is the core of the game. It manage everythings of the game, logic (like loading data,..." alt="" coords="503,144,621,171"/>
+</map>

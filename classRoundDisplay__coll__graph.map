@@ -1,0 +1,4 @@
+<map id="RoundDisplay" name="RoundDisplay">
+<area shape="rect" id="node1" title="The UI element for the current round HUD." alt="" coords="23,80,135,107"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,152,32"/>
+</map>
